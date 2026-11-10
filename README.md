@@ -43,7 +43,6 @@
 
 ### 3. 🛡️ Verified Artisan Badging & Job Lifecycle State Machine
 - Strict state transitions across the service delivery journey:
-  $$\text{UNASSIGNED} \longrightarrow \text{DISPATCHED} \longrightarrow \text{ARRIVED} \longrightarrow \text{IN\_PROGRESS} \longrightarrow \text{COMPLETED}$$
 - Displays aggregate customer star ratings (4.8+ verified rating minimum), completed job counts, and background verification badges.
 
 ---
